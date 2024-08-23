@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+
+$font-family: 'Syne', -apple-system, sans-serif;
+
+:root {
+    --grand-title-font-size: 3rem;
+    --title-font-size: 2rem;
+}
+
+@media screen and (min-width: $desktop-breakpoint) {
+    :root {
+        --grand-title-font-size: 6rem;
+        --title-font-size: 4rem;
+    }
+}
+
+html {
+    font-family: $font-family;
+    color: $blue;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: var(--grand-title-font-size);
+    letter-spacing: calc(var(--grand-title-font-size) * -.06);
+}
+
+h3 {
+    font-weight: 500;
+    font-size: var(--title-font-size);
+    letter-spacing: calc(var(--title-font-size) * -.06);
+}

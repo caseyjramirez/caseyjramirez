@@ -1,0 +1,18 @@
+// project
+@import "./variables.scss";
+@import "./text.scss";
+@import "./container.scss";
+@import "./image.scss";
+
+// util styling
+@import "./reset.scss";
+@import "./margin.scss";
+@import "./display.scss";
+
+.App {
+    background-color: $white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

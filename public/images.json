@@ -1,0 +1,72 @@
+[
+    {
+        "id": "7daf752f-088f-4bd2-9979-164fe86141b7",
+        "filePath": "https://olivia-images.s3.us-east-2.amazonaws.com/images/7daf752f-088f-4bd2-9979-164fe86141b7",
+        "name": "Guy riding bike",
+        "city": "New York, NY",
+        "size": 2202632,
+        "originalName": "max-bender-YOk0D5sz3e4-unsplash.jpg",
+        "date": "2024-08-22T05:00:00.000Z",
+        "dateDrafted": "2024-08-21T01:59:23.104Z",
+        "datePosted": "2024-08-21T02:01:05.451Z",
+        "description": "",
+        "imageType": "Live Music",
+        "aspectRatio": [
+            "4:3"
+        ],
+        "_id": "66c54a61058ba619d97da729"
+    },
+    {
+        "id": "68269071-61cf-4720-8200-a0fbc28e8a82",
+        "filePath": "https://olivia-images.s3.us-east-2.amazonaws.com/images/68269071-61cf-4720-8200-a0fbc28e8a82",
+        "name": "Guy surfing",
+        "city": "",
+        "size": 1339212,
+        "originalName": "brandon-compagne-5__FobjBei8-unsplash.jpg",
+        "date": null,
+        "dateDrafted": "2024-08-21T02:05:34.858Z",
+        "datePosted": "2024-08-21T22:51:24.054Z",
+        "description": "",
+        "imageType": "Branded",
+        "aspectRatio": [
+            "1:1",
+            "4:3",
+            "3:2"
+        ],
+        "_id": "66c66f6c4c52755ab9a4f998"
+    },
+    {
+        "id": "6394b2a1-1aa8-4b62-be6e-0eee19337282",
+        "filePath": "https://olivia-images.s3.us-east-2.amazonaws.com/images/6394b2a1-1aa8-4b62-be6e-0eee19337282",
+        "name": "two friends surfing",
+        "city": "Los Angeles, CA",
+        "size": 1571626,
+        "originalName": "delfi-de-la-rua-Sj5efgWguDs-unsplash.jpg",
+        "date": "2024-08-23T05:00:00.000Z",
+        "dateDrafted": "2024-08-21T02:05:34.858Z",
+        "datePosted": "2024-08-21T22:52:10.258Z",
+        "description": "",
+        "imageType": "Live Music",
+        "aspectRatio": [
+            "1:1"
+        ],
+        "_id": "66c66f9a4c52755ab9a4f9ad"
+    },
+    {
+        "id": "9e7c0dcd-c042-4982-b1f4-75854ee34ea1",
+        "filePath": "https://olivia-images.s3.us-east-2.amazonaws.com/images/9e7c0dcd-c042-4982-b1f4-75854ee34ea1",
+        "name": "my friend fred",
+        "city": "Dallas, TX",
+        "size": 179335,
+        "originalName": "cG9zdDoxNzQwNTI=.jpeg",
+        "date": "2024-08-09T05:00:00.000Z",
+        "dateDrafted": "2024-08-21T02:05:34.858Z",
+        "datePosted": "2024-08-21T22:52:39.910Z",
+        "description": "",
+        "imageType": "Live Music",
+        "aspectRatio": [
+            "4:3"
+        ],
+        "_id": "66c66fb74c52755ab9a4f9b9"
+    }
+]

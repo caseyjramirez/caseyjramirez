@@ -1,0 +1,19 @@
+// $internal-padding: 20px;
+
+:root {
+    --container-padding: 12px;
+}
+
+@media screen and (min-width: $desktop-breakpoint) {
+    :root {
+        --container-padding: 24px;
+    }
+}
+
+.container {
+    padding-left: var(--container-padding);
+    padding-right: var(--container-padding);
+    padding-top: var(--container-padding);
+    width: calc(100% - (var(--container-padding) * 2));
+    max-width: 1400px;
+}
